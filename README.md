@@ -1,1 +1,1 @@
-# School-Organizer
+# School-Organizer-1.0
